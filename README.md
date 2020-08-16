@@ -3,7 +3,7 @@ This web api is supose to allow people to track the latest news and numbers abou
 
 This application is used to learn the basics for C# .netcore 3.1 programing
 
-**Placeholder for an application that is under construction**
+**This application is under construction**
 
 ## Table of Content 
 * [Prerequisites](#prerequisites)
